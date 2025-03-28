@@ -19,7 +19,7 @@ lista_nombres = ["Sofía", "Mateo", "Isabella", "Lucas", "Valentina", "Alejandro
                  "Carlos", "Diana", "Pedro", "Carmen", "Miguel", "Rosa", "Jorge", "Gloria", "Luis", "Silvia", 
                  "Antonio", "Isabel", "José", "Esther", "Manuel", "Beatriz", "Francisco", "Raquel", "Javier", 
                  "Susana", "Raúl", "Pilar", "Alberto", "Eva", "Enrique", "Dolores", "Sergio", "Mercedes", 
-                 "Óscar", "Cristina", "Julio", "Rosario"]
+                 "Óscar", "Cristina", "Julio", "Rosario","karina","pepito"]
 
 diccionario_nombres = {}
 dict_users ={i:np.random.randint(10000, 500000) for i in lista_nombres}
